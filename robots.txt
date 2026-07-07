@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianporco.it/app/convertitore-da-esadecimale-a-rgb/sitemap.xml
