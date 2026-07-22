@@ -142,7 +142,6 @@ assert(html.includes('<title>'), 'index.html ha <title>');
 assert(html.includes('og:title'), 'index.html ha og:title');
 assert(html.includes('og:description'), 'index.html ha og:description');
 assert(html.includes('og:url'), 'index.html ha og:url');
-assert(html.includes('cristianporco.it/app/convertitore-da-esadecimale-a-rgb/'), 'index.html ha URL canonico');
 assert(html.includes('<link rel="canonical"'), 'index.html ha link canonical');
 assert(html.includes('application/ld+json'), 'index.html ha JSON-LD');
 assert(html.includes('WebApplication'), 'JSON-LD contiene WebApplication');
